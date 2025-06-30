@@ -71,9 +71,9 @@ Jalankan perintah php artisan storage:link
 
 Salin file .env.example sehingga menjadi file baru bernama .env.example.copy, lalu ubah namanya menjadi .env
 
-Buka file .env, ubah bagian DB_DATABASE=laravel menjadi DB_DATABASE=db_ganirohan
+Buka file .env, ubah bagian DB_DATABASE=laravel menjadi DB_DATABASE=db_rivokurniawan
 
-Buat database di browser, buka situs localhost/phpmyadmin, lalu buat database baru dengan nama db_ganirohan
+Buat database di browser, buka situs localhost/phpmyadmin, lalu buat database baru dengan nama db_rivokurniawan
 
 Buka VSCode, buka terminal, jalankan perintah php artisan migrate
 
